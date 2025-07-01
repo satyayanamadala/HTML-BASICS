@@ -1,0 +1,10 @@
+.my-container{
+    h1{
+        color:#21130d;
+        background-color:blue;
+    }
+    p{
+        color :red;
+    }
+    text-align: center;
+}

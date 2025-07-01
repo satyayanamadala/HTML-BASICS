@@ -1,0 +1,41 @@
+.container1{
+    background-color: black;
+}
+h1{
+    color:lightgreen;
+
+}
+ul{
+    color:lightcoral;
+   
+}
+ol{
+    color:lightpink;
+    list-style-type: square;
+}
+dl{
+    color:lightblue;
+}
+table,th,td{
+   
+    color:red;
+    border: 1px solid beige;
+
+}
+table{
+    width: 75%;
+    border-collapse: collapse;
+    background-color:black;
+}
+th{
+    height: 50px;
+    text-align:center;
+}
+td{
+    height: 25px;
+    text-align:left;
+}
+tr:hover {background-color: coral;}
+tr:nth-child(even){
+    background-color: white;
+}

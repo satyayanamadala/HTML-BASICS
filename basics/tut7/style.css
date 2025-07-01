@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kapakana:wght@300..400&family=WDXL+Lubrifont+TC&display=swap');
+.container{
+    text-align: center;
+    background-color: black;
+    height:770px;
+    width: 1430px;
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    color:aqua;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.para{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+  font-weight: 400;
+  font-size: 80px;
+  font-style:oblique;
+  text-decoration:line-through;
+  letter-spacing: 10px;
+  word-spacing: 50px;
+  color:aliceblue
+}

@@ -1,0 +1,23 @@
+h1{
+    text-transform: uppercase;
+    color:rgb(200,100,50);
+    text-align: center;
+    font-size:25px;
+}
+
+div{
+    text-align: center;
+    background-color: brown;
+    width: 150px;
+    height: 50px;
+    display:inline-block;
+    visibility:hidden;
+    
+}
+span{
+    width: 150px;
+    height: 50px;
+    background-color: blueviolet;
+    display:inline-block;
+    visibility:visible;
+}

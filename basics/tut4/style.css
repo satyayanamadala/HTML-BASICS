@@ -1,0 +1,28 @@
+.gallery{
+    text-align:center;
+    background-color:lightblue;
+}
+.my-container{
+    image-rendering: auto;
+    background-color:white;
+    
+    h1{
+        color:#21130d;
+        background-color: white;
+    }
+    h2{
+        color:green;
+        background-color:black;
+
+    }
+    P{
+      color:aqua;
+      
+    }
+    
+    button{
+        color:white;
+        background-color:black;
+    }
+    text-align : center;
+}
